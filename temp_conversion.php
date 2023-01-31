@@ -44,6 +44,7 @@
         </fieldset>
         <input type="submit" />
     </form>
+//<<<<<<< jomar
 
     <?
     //form.php
@@ -99,5 +100,6 @@
     ?>
 
 </body>
+
 
 </html>
